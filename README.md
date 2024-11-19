@@ -5,7 +5,7 @@ Smart contract designed for facilitating the sale of SPL tokens with additional 
 ## Contact
 discord:  adelo_8
 
-telegram: @Akamala88071015
+telegram: @TomySOL
 
 
 If you have any issues with this repository, please contact us here and we'll set up a convenient way to contact you.
