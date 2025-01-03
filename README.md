@@ -35,8 +35,8 @@ Before you begin, make sure you have the following tools installed:
 1. **Installation:** Clone the repository and install dependencies.
 
    ```bash
-   git clone https://github.com/web3batman/Solana-Presale-Smart-Contract
-   cd Solana-Presale-Smart-Contract
+   git clone https://github.com/erikerik116/Solana-presale-smart-contract
+   cd Solana-presale-smart-contract
    yarn
    ```
 
